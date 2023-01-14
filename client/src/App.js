@@ -7,6 +7,7 @@ function App() {
 
     <div className="App">
       <header className="App-header">
+        <button>PRINT HELLO WORLD</button>
         <h1>Shirt</h1>
         <button>Upload image</button>
         <h1>Pants</h1>
